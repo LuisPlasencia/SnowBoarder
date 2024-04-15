@@ -1,5 +1,5 @@
 # SnowBoarder
-Unity 3.1.2 2D Obstacles Game
+Unity 3.1.2 Obstacles 2D Game
 - Arrow keys to move
 
 Playable builds: https://drive.google.com/drive/folders/1bR5brV1kJFsH9w9lWqfwhbyKo2bAW1l-?usp=sharing
